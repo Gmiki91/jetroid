@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\jetroid\Scripts\RandomSprite.cs">
+    <Files>
+      <File FileName="Assets\jetroid\Scripts\Player.cs" Line="62" Column="35" />
+      <File FileName="Assets\jetroid\Scripts\PlayerController.cs" Line="34" Column="2" />
+      <File FileName="Assets\jetroid\Scripts\CameraFollow.cs" Line="16" Column="3" />
+      <File FileName="Assets\jetroid\Scripts\Collectable.cs" Line="9" Column="8" />
+      <File FileName="Assets\jetroid\Scripts\RandomSprite.cs" Line="19" Column="66" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
